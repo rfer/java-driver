@@ -16,6 +16,7 @@
 - [improvement] JAVA-1631: Publish a sources jar for driver-core-tests.
 - [improvement] JAVA-1632: Add a withIpPrefix(String) method to CCMBridge.Builder.
 - [bug] JAVA-1639: VersionNumber does not fullfill equals/hashcode contract.
+- [improvement] JAVA-1682: Provide a way to record latencies for cancelled speculative executions.
 
 
 ### 3.3.0
